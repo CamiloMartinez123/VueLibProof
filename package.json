@@ -1,6 +1,6 @@
 {
   "name": "sample-vue-library",
-  "version": "0.1.3",
+  "version": "0.1.0",
   "private": false,
   "author": {
     "name": "Jorge Paneque",
@@ -8,6 +8,7 @@
   },
   "repository": "https://github.com/CamiloMartinez123/VueLibProof.git",
   "license": "MIT",
+  "files": ["dist"],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
