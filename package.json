@@ -1,5 +1,5 @@
 {
-  "name": "samplevuelibrary",
+  "name": "sample-vue-library",
   "version": "0.1.1",
   "private": false,
   "author": {
@@ -38,7 +38,7 @@
       "node": true
     },
     "extends": [
-      "plugin:vue/essential",
+      "plugin:vue/essential"
     ],
     "parserOptions": {
       "parser": "babel-eslint"
